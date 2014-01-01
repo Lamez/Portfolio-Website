@@ -2,17 +2,15 @@
 	$title = "Home";
 	include("head.php");
 ?>
+        <div style="text-align:center; background: #000;"> 
+             <img src="img/front.png" alt="" />
+        </div>
 <div class="bg-content">
       <div class="container">
     <div class="row">
-          <div class="span12"> 
+        <div class="span12" style="margin-top: 20px;"> 
         <!-- slider -->
-        <div style="margin: 40px 0 55px; padding: 0; text-align:center">
-             
-             <img src="img/quote.png" alt="" />
 
-    
-            </div>
             
         <span id="responsiveFlag"></span>
         <div class="block-slogan">
