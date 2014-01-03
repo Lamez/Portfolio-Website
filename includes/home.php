@@ -1,10 +1,15 @@
 <?php
 	$title = "Home";
 	include("head.php");
-?>
-        <div style="text-align:center; background: #000;"> 
+?><!--
+        <div style="text-align:center; background: #000; background-image: url('img/code_image.jpg'); width: 100%; height: 300px;"> 
+             <h1 style="font-family:'Open Sans'; color:#FFFFFF;">James Little <br /> Subtext</h1>
+        </div> -->
+        
+                <div style="text-align:center; background: #000;"> 
              <img src="img/front.png" alt="" />
         </div>
+
 <div class="bg-content">
       <div class="container">
     <div class="row">

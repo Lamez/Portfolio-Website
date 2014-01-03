@@ -1,5 +1,6 @@
 <?php
-$page = $_GET['page'];
+if(isset($_GET['page']))
+	$page = $_GET['page'];
 if(!isset($page) || $page == "head" || $page == "foot" || $page == "menu" || empty($page))
 	$page = "home";
 
