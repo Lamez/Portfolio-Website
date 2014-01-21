@@ -10,6 +10,7 @@
         <article class="span8">
               <h3>Contact Me</h3>
               <div class="inner-1">
+              <p>Coming Soon!</p><!--
             <form id="contact-form">
                   <div class="success"> Your message has been sent succesfuly!<strong> We will be in touch soon.</strong> </div>
                   <fieldset>
@@ -39,7 +40,7 @@
                     </div>
                 <div class="buttons-wrapper"> <a class="btn btn-1" data-type="reset">Clear</a> <a class="btn btn-1" data-type="submit">Send</a></div>
               </fieldset>
-                </form>
+                </form> -->
           </div>
             </article>
         <article class="span4">
