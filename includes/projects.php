@@ -53,6 +53,15 @@
               				</section>
                 		</div>
           			</li>
+                    <li class="span4">
+            			<div class="thumbnail thumbnail-1"> <img class="project" src="img/statspackage.png" alt="" />
+                  			<section> <a href="/downloads/building_a_transparent_proxy_server.pdf" class="link-1">StatsPackage</a>
+                				<p align="left"><strong>Language</strong>: Java</p>
+                                <p align="left"><strong>Status</strong>: Completed, inactive</p>
+                                <p align="left">A simple program that takes in a list of numbers from a plain text files and does several static operations like mean, mode and etc.</p> 
+              				</section>
+                		</div>
+          			</li>
             	</ul>
       		</div>
         </div>
